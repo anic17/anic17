@@ -2,6 +2,8 @@
 
 ### Hello, I'm a person who loves to code in their free time.  
 I mainly use C and batch.
+ - I use Batch since March 2019
+ - And C since August 2020
 
 ### I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">Newtrodit</a>, a console text editor written in C.
 
