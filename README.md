@@ -10,7 +10,7 @@ I mainly use C and batch.
 Make sure to check out my other projects at my <a href="https://anic17.github.io" style="text-decoration: none">GitHub webpage</a>!
 
 
-## My GitHub stats:
+# My GitHub stats:
 
 <img src="https://komarev.com/ghpvc/?username=anic17">  
 
@@ -22,6 +22,26 @@ Make sure to check out my other projects at my <a href="https://anic17.github.io
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic17&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+ 
+ # Contact me
+
+ ### These are the ways to reach me  
+
+
+
+<a href="https://twitter.com/anic171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anic171" height="30" width="40" /></a>  Twitter **[@anic171](https://twitter.com/anic171)**  
+
+
+<a href="https://twitter.com/Newtrodit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Newtrodit" height="30" width="40" /></a>  Twitter **[@Newtrodit](https://twitter.com/Newtrodit)**
+
+
+<a href="https://discord.gg/gfmaxgE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfmaxgE" height="30" width="40" /></a>  Discord server **[Program Dream](https://discord.gg/gfmaxgE)**
+ 
+<a href="mailto:SWH.Console@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=159149&root=2631/SVG/&file=gmail_new_logo_icon_159149.svg" alt="SWH.Console@gmail.com" height="30" width="40" /></a> Gmail **[SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)**
+ 
+<a href="mailto:Batch.Antivirus@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=159149&root=2631/SVG/&file=gmail_new_logo_icon_159149.svg" alt="Batch.Antivirus@gmail.com" height="30" width="40" /></a> Gmail **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**
+ 
+ 
 </p>
  <!-- 
 View counter 
