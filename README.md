@@ -42,6 +42,13 @@ Make sure to check out my other projects at my <a href="https://anic17.github.io
 <a href="mailto:Batch.Antivirus@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=159149&root=2631/SVG/&file=gmail_new_logo_icon_159149.svg" alt="Batch.Antivirus@gmail.com" height="30" width="40" /></a> Gmail **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**
  
  
+ # Donate
+ ### Buy me a coffee!<br>
+ <a href="https://ko-fi.com/anic17"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d430afb112ea33c3aa5_Button-1-p-800.png" width="65%" height="100%"></a>
+
+ 
+ 
+ 
 </p>
  <!-- 
 View counter 
