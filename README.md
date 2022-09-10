@@ -1,13 +1,12 @@
 # anic17
 
-### Hello, I'm a person who loves to code in their free time.  
 I mainly use C and batch.
  - I use Batch since March 2019
  - And C since August 2020
 
 
-### I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">Newtrodit</a>, a console text editor written in C.
-Make sure to check out my other projects at my <a href="https://anic17.github.io" style="text-decoration: none">GitHub webpage</a>!
+## I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">Newtrodit</a>, a console text editor written in C.
+Check out my other projects at my <a href="https://anic17.github.io" style="text-decoration: none">GitHub webpage</a>!
 
 
 # My GitHub stats:
@@ -26,8 +25,6 @@ Make sure to check out my other projects at my <a href="https://anic17.github.io
  # Contact me
 
  ### These are the ways to reach me  
-
-
 
 <a href="https://twitter.com/anic171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anic171" height="30" width="40" /></a>  Twitter **[@anic171](https://twitter.com/anic171)**  
 
