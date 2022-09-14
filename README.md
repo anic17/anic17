@@ -5,11 +5,14 @@ I mainly use C and batch.
  - And C since August 2020
 
 
-## I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">Newtrodit</a>, a console text editor written in C.
-Check out my other projects at my <a href="https://anic17.github.io" style="text-decoration: none">GitHub webpage</a>!
+# What I am working on
+
+I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit beta 0.6 is going to come soon, with lots of new features!
+
+Nevertheless, don't forget to check out my <a href="https://anic17.github.io">other projects</a>!
 
 
-# My GitHub stats:
+# My GitHub stats
 
 <img src="https://komarev.com/ghpvc/?username=anic17">  
 
@@ -21,10 +24,10 @@ Check out my other projects at my <a href="https://anic17.github.io" style="text
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic17&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
- 
- # Contact me
 
- ### These are the ways to reach me  
+# Contact me
+
+### These are the ways to reach me  
 
 <a href="https://twitter.com/anic171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anic171" height="30" width="40" /></a>  Twitter **[@anic171](https://twitter.com/anic171)**  
 
