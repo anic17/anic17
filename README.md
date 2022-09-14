@@ -1,9 +1,12 @@
 # anic17
 
-I mainly use C and batch.
- - I use Batch since March 2019
- - And C since August 2020
+I mainly use C and batch for my new projects.
 
+# Skills
+ - Batch since March 2019
+ - C since August 2020
+ - HTML (simple) since 2021
+ - CSS (simple) since September 2022
 
 # What I am working on
 
