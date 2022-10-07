@@ -5,8 +5,8 @@ I mainly use C and batch for my new projects.
 # Skills
  - Batch since March 2019
  - C since August 2020
- - HTML (simple) since 2021
- - CSS (simple) since September 2022
+ - HTML since 2021
+ - CSS since September 2022
  
  
  <img src="assets/batch.png" height=48 width=48> <img src="assets/c.svg" height=48 width=48> <img src="assets/html5.svg" height=48 width=48> <img src="assets/css3.svg" height=48 width=48>
