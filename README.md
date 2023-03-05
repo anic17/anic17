@@ -1,6 +1,6 @@
 # anic17
 
-I mainly use C and batch for my new projects.
+Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done on my free time. I mainly use C for my new projects, or batch scripting for small Windows scripts.
 
 # Skills
  - Batch since March 2019
@@ -20,7 +20,7 @@ Nevertheless, don't forget to check out my <a href="https://anic17.github.io">ot
 
 # My GitHub stats
 
-<img src="https://komarev.com/ghpvc/?username=anic17">  
+<img src="https://komarev.com/ghpvc/?username=anic17&style=for-the-badge">  
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anic17&theme=dark&hide_border=true">
@@ -49,10 +49,6 @@ Nevertheless, don't forget to check out my <a href="https://anic17.github.io">ot
  
  
 
-
- 
- 
- 
 </p>
  <!-- 
 View counter 
