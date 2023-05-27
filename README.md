@@ -3,18 +3,18 @@
 Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done on my free time. I mainly use C for my new projects, or batch scripting for small Windows scripts.
 
 # Skills
- - Batch since March 2019
- - C since August 2020
- - HTML since 2021
- - CSS since September 2022
+These are my skills and frequently used languages.
  
- 
- <img src="assets/batch.png" height=48 width=48> <img src="assets/c.svg" height=48 width=48> <img src="assets/html5.svg" height=48 width=48> <img src="assets/css3.svg" height=48 width=48>
+ <table align="center">
+ <tr>
+  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td>
+ </tr>
+ </table>
 
+ 
 # What I am working on
 
-I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit beta 0.6 is going to come soon, with lots of new features!
-
+I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit 0.6 rc-1 is out, go try it! All feedback is appreciated.
 Nevertheless, don't forget to check out my <a href="https://anic17.github.io">other projects</a>!
 
 
