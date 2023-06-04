@@ -3,7 +3,7 @@
 Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done on my free time. I mainly use C for my new projects, or batch scripting for small Windows scripts.
 
 # Skills
-These are my skills and frequently used languages.
+These are my skills and my frequently used languages.
  
  <table align="center">
  <tr>
@@ -15,7 +15,7 @@ These are my skills and frequently used languages.
 # What I am working on
 
 I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit 0.6 rc-1 is out, go try it! All feedback is appreciated.
-Nevertheless, don't forget to check out my <a href="https://anic17.github.io">other projects</a>!
+Nevertheless, don't forget to check out my <a href="https://anic17.github.io">other projects</a>! My website gets new pages and contains everything you need to use my programs.
 
 
 # My GitHub stats
@@ -37,9 +37,7 @@ Nevertheless, don't forget to check out my <a href="https://anic17.github.io">ot
 
 <a href="https://twitter.com/anic171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anic171" height="30" width="40" /></a>  Twitter **[@anic171](https://twitter.com/anic171)**  
 
-
 <a href="https://twitter.com/Newtrodit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Newtrodit" height="30" width="40" /></a>  Twitter **[@Newtrodit](https://twitter.com/Newtrodit)**
-
 
 <a href="https://discord.gg/gfmaxgE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfmaxgE" height="30" width="40" /></a>  Discord server **[Program Dream](https://discord.gg/gfmaxgE)**
  
@@ -47,9 +45,12 @@ Nevertheless, don't forget to check out my <a href="https://anic17.github.io">ot
  
 <a href="mailto:Batch.Antivirus@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=159149&root=2631/SVG/&file=gmail_new_logo_icon_159149.svg" alt="Batch.Antivirus@gmail.com" height="30" width="40" /></a> Gmail **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**
  
- 
-
 </p>
+   
+# Licensing and crediting
+
+All my programs are licensed under GNU GPL v3.0 and you can use and share them freely, with the only condition of crediting me and linking my GitHub project to the repository which is being used.
+   
  <!-- 
 View counter 
 -->
