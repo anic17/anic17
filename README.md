@@ -15,7 +15,7 @@ These are my skills and my frequently used languages.
 # What I am working on
 
 I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit 0.6 rc-1 is out, go try it! All feedback is appreciated.
-Nevertheless, don't forget to check out my <a href="https://anic17.github.io">other projects</a>! My website gets new pages and contains everything you need to use my programs.
+Nevertheless, be sure to check out my <a href="https://anic17.github.io">other projects</a>! My website gets new pages and contains everything you need to use my programs.
 
 
 # My GitHub stats
