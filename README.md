@@ -1,13 +1,13 @@
 # anic17
 
-Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done on my free time. I mainly use C for my new projects, or batch scripting for small Windows scripts.
+Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done in my free time. I mainly use C for my new projects or batch scripting for small Windows scripts. I'm currently learning a bit of front-end web development including HTML, CSS, and JavaScript.
 
 # Skills
 These are my skills and my frequently used languages.
  
  <table align="center">
  <tr>
-  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td>
+  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td>
  </tr>
  </table>
 
@@ -49,7 +49,7 @@ Nevertheless, be sure to check out my <a href="https://anic17.github.io">other p
    
 # Licensing and crediting
 
-All my programs are licensed under GNU GPL v3.0 and you can use and share them freely, with the only condition of crediting me and linking my GitHub project to the repository which is being used.
+All my programs are licensed under GNU GPL v3.0 unless stated otherwise, so you can use and share them freely, with the only condition of crediting me and linking my GitHub project to the repository that is being used.
    
  <!-- 
 View counter 
