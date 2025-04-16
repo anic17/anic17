@@ -33,9 +33,7 @@ Nevertheless, be sure to check out my <a href="https://anic17.github.io">other p
 
 # Contact me
 
-### These are the ways to reach me  
-
-<a href="https://x.com/Newtrodit" target="blank"><img align="center" src="assets/x.svg" alt="X profile" height="30" width="40" /></a>   X profile **[@Newtrodit](https://x.com/Newtrodit)**
+### These are the ways to reach me
 
 <a href="https://discord.gg/gfmaxgE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfmaxgE" height="30" width="40" /></a>  My Discord server **[Program Dream](https://discord.gg/gfmaxgE)**
 
