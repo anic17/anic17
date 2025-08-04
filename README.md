@@ -7,7 +7,7 @@ These are my skills and my frequently used languages.
  
  <table align="center">
  <tr>
-  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td>
+  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td><td> <img src="assets/python.svg" height=48 width=48><br><p align="center">Python</p</td>
  </tr>
  </table>
 
