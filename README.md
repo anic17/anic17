@@ -1,13 +1,13 @@
 # anic17
 
-Hi, it's Andreu, aka anic17, a hobbyist programmer, so everything is done in my free time. I mainly use C for my new projects or batch scripting for small Windows scripts. I'm currently learning a bit of front-end web development including HTML, CSS, and JavaScript.
+Hi, it's Andreu, aka anic17, a Mathematics & Computer Science student at the Universitat Politècnica de Catalunya. Started as a hobbyist programmer, most of the projects and software you will find in my GitHub are mainly written in C, and the older ones in batch. I have also done a bit of frameworkless web development using HTML5, CSS3 and pure JavaScript.
 
 # Skills
 These are my skills and my frequently used languages.
  
  <table align="center">
  <tr>
-  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td><td> <img src="assets/python.svg" height=48 width=48><br><p align="center">Python</p</td>
+  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML5</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS3</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td><td> <img src="assets/python.svg" height=48 width=48><br><p align="center">Python</p</td><td> <img src="assets/postgresql.svg" height=48 width=48><br><p align="center">PSQL</p</td>
  </tr>
  </table>
 
@@ -33,19 +33,19 @@ Nevertheless, be sure to check out my <a href="https://anic17.github.io">other p
 
 # Contact me
 
-### These are the ways to reach me
+## These are the ways to reach me
 
+### Discord
 <a href="https://discord.gg/gfmaxgE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfmaxgE" height="30" width="40" /></a>  My Discord server **[Program Dream](https://discord.gg/gfmaxgE)**
-- Gmail **[SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)**
-- Gmail **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**
+
+### Email
+* **[SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)** (main email)
+* **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**  (only for Batch-Antivirus related topics)
+* **[newtrodit@gmail.com](mailto:newtrodit@gmail.com)**  (only for Newtrodit related topics)
+
  
 </p>
    
 # Licensing and crediting
 
-All my programs are licensed under the GNU GPL v3.0 (unless otherwise noted), meaning you’re free to use and share them. I only ask that you credit me and include a link to the relevant GitHub repository in your project.
-
- <!-- 
-View counter 
--->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanic17&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false" height=0 width=0>
+All my programs are licensed under the GNU GPL v3.0 (unless otherwise noted), meaning you are free to use and share them. I only ask that you credit me and include a **visible** link to the relevant GitHub repository in your project, preferrably on your README file.
