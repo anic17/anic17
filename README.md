@@ -21,10 +21,10 @@ I love building low-level applications and understanding precisely how current t
 
 ## 🚀 What I'm Working On
 
-I am currently focusing my efforts on **[Newtrodit](https://github.com/anic17/Newtrodit)**, a console text editor written in C. 
+I am currently focusing my efforts on **[Newtrodit](https://github.com/anic17/Newtrodit)**, a lightweight console text editor written in C.
 
-> 📣 **Update:**  
-> 🚧 Newtrodit is undergoing a complete code rework, which will significantly enhance its performance, cross-compatibility, support for 24-bit RGB colors and modularity. Additionally, it will offer full Unicode support and the handling of binary files! 🚧
+>  **Under Construction:**  
+> 🚧 Newtrodit is undergoing a complete code rework to significantly enhance performance, cross-compatibility, and modularity. Upcoming features include 24-bit RGB colors, full Unicode support, and binary file handling! 🚧
 
 Be sure to check out my **[other projects](https://anic17.github.io)**! My website gets updated and polished frequently and contains everything you need to use my programs.
 
@@ -73,6 +73,7 @@ Be sure to check out my **[other projects](https://anic17.github.io)**! My websi
 ## 📫 Get In Touch
 
 * 💬 **Discord:** Join my server, **[Program Dream](https://discord.gg/gfmaxgE)**
+  * You can find me there as @anic17
 * 📧 **Main Email:** [SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)
 * 📝 **Newtrodit Topics:** [newtrodit@gmail.com](mailto:newtrodit@gmail.com)
 * 🛡️ **Batch-Antivirus Topics:** [Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)
