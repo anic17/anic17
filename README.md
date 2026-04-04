@@ -24,7 +24,7 @@ I love building low-level applications and understanding precisely how current t
 I am currently focusing my efforts on **[Newtrodit](https://github.com/anic17/Newtrodit)**, a console text editor written in C. 
 
 > 📣 **Update:**  
-> > 🚧 Newtrodit is undergoing a complete code rework, which will significantly enhance its performance, cross-compatibility, support for 24-bit RGB colors and modularity. Additionally, it will offer full Unicode support and the handling of binary files! 🚧
+> 🚧 Newtrodit is undergoing a complete code rework, which will significantly enhance its performance, cross-compatibility, support for 24-bit RGB colors and modularity. Additionally, it will offer full Unicode support and the handling of binary files! 🚧
 
 Be sure to check out my **[other projects](https://anic17.github.io)**! My website gets updated and polished frequently and contains everything you need to use my programs.
 
@@ -78,7 +78,7 @@ Be sure to check out my **[other projects](https://anic17.github.io)**! My websi
 
 ## Internships & Jobs
 
-As of today, I am open to a summer position as an intern in a tech-related enterprise. If you are recruiting near the Tarragona/Barcelona zone, do not hesitate to reach out via email! I will gladly send you my full Curriculum Vitæ. I am fully flexible: I can either comfortably work in-person or remotely.
+Right now, I am open to a summer position as an intern in a tech-related enterprise. If you are recruiting near the Tarragona/Barcelona zone, do not hesitate to reach out via email! I will gladly send you my full Curriculum Vitæ. I am fully flexible: I can either comfortably work in-person or remotely.
 
 ---
 
