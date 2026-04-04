@@ -1,51 +1,88 @@
-# anic17
+<h1 align="center">Hi there, I'm Andreu (aka anic17) 👋</h1>
 
-Hi, it's Andreu, aka anic17, a Mathematics & Computer Science student at the Universitat Politècnica de Catalunya. Started as a hobbyist programmer, most of the projects and software you will find in my GitHub are mainly written in C, and the older ones in batch. I have also done a bit of frameworkless web development using HTML5, CSS3 and pure JavaScript.
-
-# Skills
-These are my skills and my frequently used languages.
- 
- <table align="center">
- <tr>
-  <td><img src="assets/batch.png" height=48 width=48><br><p align="center">Batch</p</td><td> <img src="assets/c.svg" height=48 width=48><br><p align="center">C</p></td><td> <img src="assets/html5.svg" height=48 width=48><br><p align="center">HTML5</p</td><td> <img src="assets/css3.svg" height=48 width=48><br><p align="center">CSS3</p</td><td> <img src="assets/js.svg" height=48 width=48><br><p align="center">JS</p</td><td> <img src="assets/python.svg" height=48 width=48><br><p align="center">Python</p</td><td> <img src="assets/postgresql.svg" height=48 width=48><br><p align="center">PSQL</p</td>
- </tr>
- </table>
-
- 
-# What I am working on
-
-I'm currently working on <a style="text-decoration: none" href="https://github.com/anic17/Newtrodit">**Newtrodit**</a>, a console text editor written in C. Newtrodit 0.6 rc-1 is out, go try it! All feedback is appreciated.
-Nevertheless, be sure to check out my <a href="https://anic17.github.io">other projects</a>! My website gets new pages and contains everything you need to use my programs.
-
-
-# My GitHub stats
-
-<img src="https://komarev.com/ghpvc/?username=anic17&style=for-the-badge">  
+<h3 align="center">Mathematics & Computer Science Student @ Universitat Politècnica de Catalunya</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anic17&theme=dark&hide_border=true">
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anic17&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic17&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-
-# Contact me
-
-## These are the ways to reach me
-
-### Discord
-<a href="https://discord.gg/gfmaxgE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfmaxgE" height="30" width="40" /></a>  My Discord server **[Program Dream](https://discord.gg/gfmaxgE)**
-
-### Email
-* **[SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)** (main email)
-* **[Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)**  (only for Batch-Antivirus related topics)
-* **[newtrodit@gmail.com](mailto:newtrodit@gmail.com)**  (only for Newtrodit related topics)
-
- 
+  <a href="https://anic17.github.io">Website</a> •
+  <a href="https://github.com/anic17/Newtrodit">Newtrodit</a> •
+  <a href="https://discord.gg/gfmaxgE">Discord</a>
 </p>
-   
-# Licensing and crediting
 
-All my programs are licensed under the GNU GPL v3.0 (unless otherwise noted), meaning you are free to use and share them. I only ask that you credit me and include a **visible** link to the relevant GitHub repository in your project, preferrably on your README file.
+---
+
+## 👨‍💻 About Me
+
+Started as a hobbyist programmer, my passion evolved into a dedicated Math & CS student, now based in Barcelona. 
+I love building low-level applications and understanding precisely how current technology works under the hood.
+
+* **Main Focus:** Most of the projects and software you will find on my GitHub are primarily written in **C**.
+* **Web Development:** I enjoy framework-less web development using vanilla **HTML5**, **CSS3**, and pure **JavaScript**.
+* **Legacy:** Some of my older projects are written in **Batch**.
+
+## 🚀 What I'm Working On
+
+I am currently focusing my efforts on **[Newtrodit](https://github.com/anic17/Newtrodit)**, a console text editor written in C. 
+
+> 📣 **Update:**  
+> > 🚧 Newtrodit is undergoing a complete code rework, which will significantly enhance its performance, cross-compatibility, support for 24-bit RGB colors and modularity. Additionally, it will offer full Unicode support and the handling of binary files! 🚧
+
+Be sure to check out my **[other projects](https://anic17.github.io)**! My website gets updated and polished frequently and contains everything you need to use my programs.
+
+## 🛠️ Skills & Technologies
+
+**Languages & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MIPS_Assembly-283272?style=for-the-badge&logo=riscv" alt="MIPS Assembly" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch" />
+</p>
+
+**Python Libraries & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anic17&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anic17&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anic17&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" alt="anic17's GitHub stats">  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anic17&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark" alt="Top Languages">
+</p>
+
+## 📫 Get In Touch
+
+* 💬 **Discord:** Join my server, **[Program Dream](https://discord.gg/gfmaxgE)**
+* 📧 **Main Email:** [SWH.Console@gmail.com](mailto:SWH.Console@gmail.com)
+* 📝 **Newtrodit Topics:** [newtrodit@gmail.com](mailto:newtrodit@gmail.com)
+* 🛡️ **Batch-Antivirus Topics:** [Batch.Antivirus@gmail.com](mailto:Batch.Antivirus@gmail.com)
+
+## Internships & Jobs
+
+As of today, I am open to a summer position as an intern in a tech-related enterprise. If you are recruiting near the Tarragona/Barcelona zone, do not hesitate to reach out via email! I will gladly send you my full Curriculum Vitæ. I am fully flexible: I can either comfortably work in-person or remotely.
+
+---
+
+## ⚖️ Licensing & Crediting
+
+All my programs are licensed under the **GNU GPL v3.0** (unless otherwise noted), meaning you are free to use and share them!
+Just link the original repository or my GitHub profile on a **visible** part of the project, preferably the README or an AUTHORS file.
